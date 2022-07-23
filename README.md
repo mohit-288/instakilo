@@ -1,4 +1,4 @@
-# instakilo
+# Instakilo
 
 A Flutter project.
 
